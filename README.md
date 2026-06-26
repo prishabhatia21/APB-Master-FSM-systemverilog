@@ -55,6 +55,14 @@ Waveform dump: `apb.vcd` (generated on simulation)
 
 ---
 
+## Waveform
+
+![Waveform](waveform_apb.png)
+
+## State Diagram
+
+![State Diagram](state_diagram_apb.png)
+
 
 
 ## Key Concepts Demonstrated
